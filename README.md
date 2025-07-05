@@ -1,6 +1,6 @@
 # ComSys-Hackathon
-TaskA
-## Gender Classification using EfficientNetB3 
+
+## Task A: Gender Classification using EfficientNetB3 
 
 This project is a deep learning-based gender classification system built on top of *EfficientNetB3*, fine-tuned for binary classification (Male/Female). It includes preprocessing with Albumentations, Mediapipe face cropping, training with PyTorch, and experiment tracking using Weights & Biases (optional).
 
@@ -136,7 +136,7 @@ This project is open-source under the MIT License. Feel free to use and modify.
 
 Task B
 
-# Task_B: Face Recognition from Distorted Images using DeepFace
+# Task B: Face Recognition from Distorted Images using DeepFace
 
 This project evaluates a face recognition system that can correctly identify people from **distorted or degraded images** (e.g., blur, fog, rain). It uses **DeepFace** with the **ArcFace** model and a **K-Nearest Neighbors (KNN)** classifier to embed, compare, and classify images based on their face embeddings.
 
